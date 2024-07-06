@@ -1,1 +1,2 @@
-# food-pos-dark-figma-to-html-css
+[![Fodd POS Dark banner](./.github/banner.png)](https://www.figma.com/design/ECDCf2NBhkZofyHub43O2p/Food-POS-Dark---Tablet-Device-(Community)?m=auto&t=uriyrxE4sp6p1Vzd-6)
+# Food POS Dark - Tablet Device (Community)
